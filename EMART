@@ -1,0 +1,29 @@
+<html>
+<head>
+    <title>EMart</title>
+</head>
+<body align="center">
+
+    <h1>EMart</h1>
+
+    Username:
+    <input type="text" placeholder="Enter Username">
+    <br><br>
+
+    Password:
+    <input type="password" placeholder="Enter Password">
+    <br><br>
+
+    <button>Login</button>
+    <br><br>
+
+    <button>Forgot Password</button>
+
+    <footer>
+        <p style="color:brown; font-size:small;">
+            &copy; 2026 EMart Shopping
+        </p>
+    </footer>
+
+</body>
+</html>
